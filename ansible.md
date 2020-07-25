@@ -7,7 +7,7 @@ ansible-doc ec2      #show aws ec2 module information
 
 # Installation
 
-```bash
+```shell
 sudo yum install epel-release
 sudo useradd ansible
 sud passwd ansible
