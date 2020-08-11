@@ -1,5 +1,3 @@
-python notes
-
 ## returns the number of vowels in string
 
 ```python
